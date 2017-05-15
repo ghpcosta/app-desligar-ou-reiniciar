@@ -1,0 +1,1 @@
+# app-desligar-ou-reiniciar
